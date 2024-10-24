@@ -2,7 +2,7 @@ var a =10;
 
 function setup() {
   createCanvas(1100, 1100);
-  background("black");
+  background("white");
 }
 
 function draw() {
